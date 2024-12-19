@@ -5,16 +5,14 @@
         "composer/installers": "^2.2",
         "johnpbloch/wordpress": "^6.3.0",
         "humanmade/s3-uploads": "^3.0.7",
-        "wpackagist-plugin/wp-super-cache":"^1.9.4",
-        "wpackagist-plugin/elementor":"^3.15.1",
-        "wpackagist-plugin/essential-addons-for-elementor-lite":"^5.8.5",
-        "wpackagist-plugin/google-site-kit":"^1.106.0",
-        "wpackagist-plugin/jetpack":"^12.4",
-        "wpackagist-plugin/wordfence":"^7.10.3",
-        "wpackagist-plugin/wordpress-seo":"^20.13",
-        "wpackagist-plugin/better-search-replace":"^1.4.2",
-        "wpackagist-plugin/google-analytics-for-wordpress":"^8.18",
-        "wpackagist-theme/astra":"4.5.2"
+        "wpackagist-plugin/wp-super-cache":"^1.12.4",
+        "wpackagist-plugin/elementor":"^3.26.1",
+        "wpackagist-plugin/essential-addons-for-elementor-lite":"^6.0.14",
+        "wpackagist-plugin/google-site-kit":"^1.142.0",
+        "wpackagist-plugin/jetpack":"^14.1",
+        "wpackagist-plugin/wordfence":"^8.0.1",
+        "wpackagist-plugin/wordpress-seo":"^24.1",
+        "wpackagist-plugin/better-search-replace":"^1.4.2"
     },
     "autoload": {
         "psr-4": {
