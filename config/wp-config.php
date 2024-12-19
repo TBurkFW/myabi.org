@@ -83,6 +83,8 @@ define('ENABLE_CACHE', true);
 
 /* Add any custom values between this line and the "stop editing" line. */
 
+define( 'FS_METHOD', 'direct' );
+
 $domain = "%DOMAIN%";
 $fw_root = str_replace('/config', '', __DIR__);
 
