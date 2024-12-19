@@ -12,7 +12,8 @@
         "wpackagist-plugin/jetpack":"^14.1",
         "wpackagist-plugin/wordfence":"^8.0.1",
         "wpackagist-plugin/wordpress-seo":"^24.1",
-        "wpackagist-plugin/better-search-replace":"^1.4.2"
+        "wpackagist-plugin/better-search-replace":"^1.4.2",
+        "wpackagist-theme/hello-elementor":"^3.2.1"
     },
     "autoload": {
         "psr-4": {
