@@ -14,6 +14,7 @@
         "wpackagist-plugin/wordpress-seo":"^24.1",
         "wpackagist-plugin/better-search-replace":"^1.4.2",
         "wpackagist-theme/hello-elementor":"^3.2.1",
+        "wpackagist-plugin/embedpress":"^4.1.7",
         "wpackagist-plugin/spotlight-social-photo-feeds":"^1.7.0"
     },
     "autoload": {
