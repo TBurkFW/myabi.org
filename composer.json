@@ -16,6 +16,7 @@
         "wpackagist-theme/hello-elementor":"^3.2.1",
         "wpackagist-plugin/embedpress":"^4.1.7",
         "wpackagist-plugin/woocommerce":"^9.5.2",
+        "wpackagist-plugin/the-events-calendar":"^6.10.0",
         "wpackagist-plugin/spotlight-social-photo-feeds":"^1.7.0"
     },
     "autoload": {
