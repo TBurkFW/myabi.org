@@ -6,4 +6,4 @@ Disallow: /pickup/
 Disallow: /.well-known
 Disallow: *?*html
 Disallow: /cgi-bin/
-Sitemap: https://faithtabernacle.com/sitemap_index.xml (example)
+Sitemap: https://www.myabi.org/sitemap_index.xml
