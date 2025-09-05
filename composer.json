@@ -5,7 +5,7 @@
         "composer/installers": "^2.2",
         "johnpbloch/wordpress": "^6.3.0",
         "humanmade/s3-uploads": "^3.0.7",
-        "wpackagist-plugin/wp-super-cache":"^3.01",
+        "wpackagist-plugin/wp-super-cache":"^3.0.1",
         "wpackagist-plugin/elementor":"^3.26.1",
         "wpackagist-plugin/essential-addons-for-elementor-lite":"^6.0.14",
         "wpackagist-plugin/google-site-kit":"^1.150.0",
